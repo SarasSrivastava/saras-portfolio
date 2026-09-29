@@ -244,7 +244,7 @@ export default function Home() {
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a
-              href="mailto:your-email@example.com"
+              href="mailto:your-srivastavasaras235@example.com"
               className="rounded-full bg-cyan-400 px-6 py-3 font-semibold text-slate-950 hover:bg-cyan-300"
             >
               Email Me
@@ -259,11 +259,13 @@ export default function Home() {
               GitHub
             </a>
 
-            <a
-              href="#"
-              className="rounded-full border border-white/20 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-400"
-            >
-              LinkedIn
+          <a
+  href="https://www.linkedin.com/in/saras-srivastava-aa5139382"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-full border border-white/20 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-400"
+>
+  LinkedIn
             </a>
           </div>
         </div>
